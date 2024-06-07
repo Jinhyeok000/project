@@ -10,6 +10,6 @@
 <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 </head>
 <body>
-	첫 연습중...
+	첫 연습중...입니다..
 </body>
 </html>
